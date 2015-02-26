@@ -1,0 +1,23 @@
+{
+  "uuid": "43274a07-66f9-4ee0-a619-718b5cf3e4e6",
+  "shortName": "werder-watchface",
+  "longName": "werder-watchface",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+        {
+            "type": "png",
+            "name": "BACKGROUND",
+            "file": "background.png"
+        }
+    ]
+  }
+}
