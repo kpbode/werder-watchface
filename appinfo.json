@@ -13,11 +13,16 @@
   },
   "resources": {
     "media": [
-        {
-            "type": "png",
-            "name": "BACKGROUND",
-            "file": "background.png"
-        }
+      {
+        "type": "png",
+        "name": "BACKGROUND",
+        "file": "background.png"
+      }
     ]
-  }
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ],
+  "sdkVersion": "3"
 }
